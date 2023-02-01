@@ -13,5 +13,7 @@ to verify the findings.
 # The Data
 
 kon- the 'on' rate, or the rate at which molecules bind
+
 koff- the 'off' rate, or the rate at which molecules disassociate
+
 calcium_flux- a strong indicator of early B cell activation
